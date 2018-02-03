@@ -8,9 +8,16 @@ Whatever you share through the SCA-FOSS initiative has to be FREE. I don't mean 
 Join us! 
 
 ## Projects:
-[EventSpice](https://github.com/kevinbaun/EventSpice) 
+### [EventSpice](https://github.com/kevinbaun/EventSpice) 
 
 (CURRENTLY UNDER DEVELOPMENT) This is project I'm building to provide a full featured, easy to install, easy to maintain, event management system. Create events, manage events, accept paypal registrations, generate calendars, interactive  Google Maps, all kinds of stuff. 
+
+---
+
+### Your Proect Here!
+Join us!
+
+---
 
 ## Useful Links:
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
