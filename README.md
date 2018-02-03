@@ -9,6 +9,7 @@ Join us!
 
 ## Projects:
 [EventSpice](https://github.com/kevinbaun/EventSpice) 
+
 (CURRENTLY UNDER DEVELOPMENT) This is project I'm building to provide a full featured, easy to install, easy to maintain, event management system. Create events, manage events, accept paypal registrations, generate calendars, interactive  Google Maps, all kinds of stuff. 
 
 ## Useful Links:
